@@ -3,7 +3,7 @@
   "description": "核心依赖",
   "version": "0.1.4",
   "repository": {
-    "type": "???",
+    "type": "git",
     "url": "???"
   },
   "license": "UNLICENSED",
