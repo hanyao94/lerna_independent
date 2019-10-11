@@ -1,5 +1,5 @@
 {
-  "name": "ux",
+  "name": "wz_ux",
   "description": "ux",
   "version": "0.1.8",
   "repository": {
@@ -61,7 +61,7 @@
     "dist"
   ],
   "dependencies": {
-    "core": "^0.1.10"
+    "wz_core": "^0.1.10"
   },
-  "gitHead": "4cf7ec85a9728ac480e8f82e8da5d4c470c282a3"
+  "gitHead": "d0800e33446fd32c4512dc353ba14c522dca3879"
 }
