@@ -2,6 +2,5 @@
   "packages": [
     "packages/*"
   ],
-  "version": "independent",
-  "useGitVersion": true
+  "version": "independent"
 }
