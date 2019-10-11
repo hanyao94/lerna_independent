@@ -6,7 +6,7 @@
     "type": "git",
     "url": "xxx"
   },
-  "license": "UNLICENSED",
+  "license": "ISC",
   "devDependencies": {
     "@babel/core": "^7.4.0",
     "@babel/plugin-proposal-class-properties": "^7.4.0",
@@ -63,5 +63,5 @@
   "dependencies": {
     "core": "^0.1.9"
   },
-  "gitHead": "c9886d59cf70ed6d076868c62f4672782c0f752d"
+  "gitHead": "4cf7ec85a9728ac480e8f82e8da5d4c470c282a3"
 }
