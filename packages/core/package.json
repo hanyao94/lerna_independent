@@ -49,7 +49,6 @@
   },
   "main": "dist/commonjs/index.js",
   "module": "dist/native-modules/index.js",
-  "private": true,
   "files": [
     "dist"
   ]
