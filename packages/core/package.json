@@ -51,5 +51,6 @@
   "module": "dist/native-modules/index.js",
   "files": [
     "dist"
-  ]
+  ],
+  "gitHead": "c9886d59cf70ed6d076868c62f4672782c0f752d"
 }

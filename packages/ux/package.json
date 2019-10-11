@@ -62,5 +62,6 @@
   ],
   "dependencies": {
     "core": "^0.1.8"
-  }
+  },
+  "gitHead": "c9886d59cf70ed6d076868c62f4672782c0f752d"
 }
