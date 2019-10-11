@@ -1,7 +1,7 @@
 {
   "name": "ux",
   "description": "ux",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "repository": {
     "type": "git",
     "url": "???"
@@ -61,6 +61,6 @@
     "dist"
   ],
   "dependencies": {
-    "core": "^0.1.6"
+    "core": "^0.1.7"
   }
 }
